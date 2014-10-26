@@ -13,6 +13,7 @@ import fileinput
 import threading
 import json
 
+
 SOCKET_HOST = 'game.acmalgo.com'
 SOCKET_PORT = 8080
 
