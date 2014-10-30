@@ -1,7 +1,7 @@
 AWAP
 ====
 
-Bot for Carnegie Mellon University Algorithms With a Purpose competition 2014. We were tasked with writing an AI to play a variant of the board game Blokus, which was then pitted against other AIs in a tournament-style format.
+Bot for Carnegie Mellon University Algorithms With a Purpose competition 2014. We were tasked with writing an AI to play a variant of the board game Blokus, which was then pitted against other AIs in a tournament-style format. This bot placed fourth in the tournament, and I believe scored the highest points in the bonus round that followed.
 
 The folders cpp and java contain starter code in C++ and Java, respectively. We used the python starter code provided, modifying the find_move method to implement our AI.
 
